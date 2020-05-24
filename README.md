@@ -1,6 +1,19 @@
 ## Deno Api Rest (oak)
 ### Simple rest api using Deno + oak
 
+https://deno-oak-apirest.herokuapp.com/v1/players
+
+#### Methods
+
+- POST /v1/players
+- GET /v1/players
+- GET /v1/players/:playerId
+- PUT /v1/players/:playerId
+- DELETE /v1/players/:playerId
+
+NOTE: For testing purposes the data storage is in memory, can add the database of your choice.
+
+
 #### Getting Started
 
 - Install Deno (https://deno.land/#installation)
