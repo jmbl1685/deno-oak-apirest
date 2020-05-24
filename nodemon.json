@@ -1,0 +1,8 @@
+{
+  "ignore": [],
+  "watch": [
+    "*.ts"
+  ],
+  "exec": "deno run --allow-all src/app.ts",
+  "ext": "ts"
+}
